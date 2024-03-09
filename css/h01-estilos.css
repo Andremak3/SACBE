@@ -1,0 +1,107 @@
+.br {
+    background-color: #b9dfa3;
+}
+
+#barra {
+    background-color: #9bce7e;
+
+}
+
+#tit {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 199%;
+    color: #293636;
+    width: 10%;
+}
+
+#pal {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#bot {
+    background-color: #293636;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#subtitulo {
+
+    font-family: "Madimi One", sans-serif;
+    font-size: 200%;
+}
+
+#to {
+    font-family: "Alkatra", system-ui;
+    font-size: 500%;
+
+}
+
+#texto {
+    background-color: #ffffffc0;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 3%;
+    margin-right: 70%;
+}
+
+#pa {
+    background-color: #205d5fc0;
+    color: #000000;
+    text-align: center;
+    padding: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#par {
+    background-color: #205d5fc0;
+    color: #000000;
+    padding: 4%;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#paraf {
+    background-color: #205d5fc0;
+    color: #000000;
+    text-align: center;
+    padding: 4%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#fv {
+    background-color: #75ac55;
+    padding: 4%;
+    margin-right: 4%;
+    margin-left: 4%;
+}
+
+#zona-imagenes {
+    background-color: #556452;
+    margin-right: 4%;
+    margin-left: 4%;
+    margin-bottom: 4%;
+    height: 230px;
+    text-align: center;
+    padding: 1%;
+}
+
+.tam {
+    width: 25%;
+}
+
+#icons {
+    float: right;
+    background-color: #7db831;
+    margin-top: 8%;
+}
+
+#redes {
+    background-color: #7db831;
+    padding-top: 1%;
+    padding-bottom: 8%;
+    margin-top: 9%;
+}
